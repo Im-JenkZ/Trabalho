@@ -1,2 +1,1 @@
-Rodar o codigo: uvicorn main:app --reload
-endereço ip: http://127.0.0.1:8000
+
